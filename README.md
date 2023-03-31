@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - 🌱 Estou atualmente apredendo Desenvolvimento mobile com FLutter, se quiser ver um aplicativo que estou desenvolvendo vá para: https://github.com/joaovitormsilva/Dart-Flutter/tree/main/4%20-%20Experimentos/Criacoes/
+ - 🌱 Estou atualmente apredendo Desenvolvimento mobile com FLutter, se quiser ver um aplicativo que estou desenvolvendo vá para:
+ <center>
+<div> 
+
+ <a href="https://github.com/joaovitormsilva/Dart-Flutter/tree/main/4%20-%20Experimentos/Criacoes/" target="_blank"><img src="https://mundoconectado.com.br/uploads/chamadas/capa_368.jpg" width = "100"  target="_blank"></a> 
+ </div> 
+ </center>
 
 <div>
 
