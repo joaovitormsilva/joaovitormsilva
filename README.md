@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  - 🌱 Estou atualmente apredendo Desenvolvimento mobile com FLutter, se quiser ver um aplicativo que estou desenvolvendo clique em:
- <center>
-<div> 
-
- <a href="https://github.com/joaovitormsilva/Dart-Flutter/tree/main/4%20-%20Experimentos/Criacoes/" target="_blank"><img src="https://mundoconectado.com.br/uploads/chamadas/capa_368.jpg" width = "100"  target="_blank"></a> 
- </div> 
- </center>
-
+https://github.com/joaovitormsilva/Flutter-MyApps
 <div>
 
 <a href="https://github.com/joaovitormsilva">
