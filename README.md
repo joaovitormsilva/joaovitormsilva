@@ -3,13 +3,13 @@
 ## Me chamo João Vitor Martins da Silva
 
 🎓 Estudante de Bacharelado em Sistemas de Informação na Universidade de São Paulo (USP).  
-💼 Atualmente, sou **Estagiário em Engenharia de Dados na F1rst - Digital Services**, onde atuo com a produtização de modelos de machine learning, arquitetura Kedro, DevOps com Jenkins e execução em ambiente Databricks e Azure.
+💼 Atualmente, sou um **Engenheiro de Dados na F1rst - Digital Services**, onde atuo com a parte manipulação de tabelas na parte de CRM, Finops de custo cloud, criação de dashboards para liderança.
 
 ---
 
 ## 💡 Sobre mim
 
-Tenho formação técnica em Eletrônica, experiência prática com testes automatizados em aplicações web/mobile e hoje foco meu desenvolvimento em soluções de dados em larga escala, pipelines de machine learning e engenharia para ambientes produtivos em nuvem.
+Tenho formação técnica em Eletrônica, experiência prática com testes automatizados em aplicações web/mobile e hoje foco meus estudos em engenharia de dados e IA.
 
 ---
 
@@ -34,15 +34,13 @@ Tenho formação técnica em Eletrônica, experiência prática com testes autom
 
 ## 📌 Projetos em Destaque
 
-- 🚀 **Produtização de Modelos de Propensão**  
-  Pipelines de machine learning em Kedro, com execução automatizada em Azure/Databricks, validação com cientistas de dados e deploy em produção.
-
-- 🔎 **Testes Automatizados de APIs, Web e Mobile**  
-  Framework interno em Java com Selenium + JUnit, com testes regressivos e E2E implementados na F1rst.
-
 - 📊 **Análise de Vendas com PySpark no Databricks**  
   Projeto completo de ingestão, análise e testes de qualidade em dados de vendas usando Spark e PySpark na plataforma Databricks.  
   👉 [Repositório aqui](https://github.com/joaovitormsilva/vendas_livraria_spark)
+  
+- **IoT Sensor Streaming**  
+  Sistema de processamento de dados em tempo real para sensores IoT, utilizando Kafka para mensageria e Spark Structured Streaming para consumo e processamento, com armazenamento final em PostgreSQL.
+  👉 [Repositório aqui](https://github.com/joaovitormsilva/Monitoramento-Sensor-Iot)
 
 ---
 
