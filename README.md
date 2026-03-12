@@ -36,7 +36,7 @@ Tenho formação técnica em Eletrônica, experiência prática com testes autom
 
 - 📊 **Análise de Vendas com PySpark no Databricks**  
   Projeto completo de ingestão, análise e testes de qualidade em dados de vendas usando Spark e PySpark na plataforma Databricks.  
-  👉 [Repositório aqui](https://github.com/joaovitormsilva/vendas_livraria_spark)
+  👉 [Repositório aqui](https://github.com/joaovitormsilva/Vendas-Livrarias)
   
 - **IoT Sensor Streaming**  
   Sistema de processamento de dados em tempo real para sensores IoT, utilizando Kafka para mensageria e Spark Structured Streaming para consumo e processamento, com armazenamento final em PostgreSQL.
