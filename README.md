@@ -4,7 +4,6 @@
 
 🎓 **Bachelor's Student** in Information Systems at **University of São Paulo (USP)**  
 💼 **Data Engineer** at **F1rst Digital Services**  
-🌎 **Seeking international opportunities** in Data Engineering & Machine Learning Operations
 
 ---
 
@@ -102,7 +101,6 @@ Real-time data processing system for IoT sensors using Kafka for messaging, Spar
 - 🔭 Building scalable data pipelines with Azure Databricks
 - 🌱 Learning advanced MLOps and real-time streaming architectures
 - 👯 Looking to collaborate on open-source data engineering projects
-- 💼 **Open to international Data Engineering opportunities**
 
 ---
 
